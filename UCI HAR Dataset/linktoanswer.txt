@@ -1,1 +1,0 @@
-https://github.com/bgentry/coursera-getting-and-cleaning-data-project/blob/master/run_analysis.R
